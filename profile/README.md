@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   <img src="https://morot.se/wp-content/uploads/2023/01/MCS-logoalt-vit1.png" width="300" alt="Morot Logo">
-  <h1>Välkommen till Morot! 🥕</h1>
+  <h1>Välkommen till Morot!</h1>
   <p><strong>Fullservice-byrå med egen film- och fotostudio.</strong></p>
 </div>
 
